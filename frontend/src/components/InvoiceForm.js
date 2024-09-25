@@ -344,7 +344,7 @@ class InvoiceForm extends React.Component {
                 </Form.Select>
               </Form.Group>
               <Form.Group className="my-3">
-                <Form.Label className="fw-bold">Tax rate:</Form.Label>
+                <Form.Label className="fw-bold">Goods and Services Tax:</Form.Label>
                 <InputGroup className="my-1 flex-nowrap">
                   <Form.Control
                     name="taxRate"

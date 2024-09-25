@@ -121,7 +121,7 @@ class InvoiceModal extends React.Component {
                     <tr className="text-end">
                       <td></td>
                       <td className="fw-bold" style={{ width: "100px" }}>
-                        TAX
+                        GST
                       </td>
                       <td className="text-end" style={{ width: "100px" }}>
                         {this.props.currency} {this.props.taxAmount}
